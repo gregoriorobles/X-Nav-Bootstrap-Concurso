@@ -1,0 +1,11 @@
+
+
+.container hr{
+	border: 1;
+	height: 2px; 
+	text-align: center; 
+	background-image: linear-gradient(left, #fff, #000, #fff);
+};
+
+
+/*style="background:EB2B2B
